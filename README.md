@@ -1,5 +1,5 @@
 # OCR-on-PDF
-This notebook can search on large and unsearchable (scanned) PDF files. 
+This notebook can search on large and unsearchable (scanned) PDF files to find your favorite keyword. 
 
 Supported languages: English and Persian
 
