@@ -4,3 +4,9 @@ This notebook can search on large and unsearchable (scanned) PDF file to find yo
 Supported languages: English and Persian
 
 This notebook has been developed on Google Colab on 08 Dec 2024. 
+
+# Installation:
+
+``` !apt-get install -y tesseract-ocr ```
+
+``` !apt-get install -y tesseract-ocr-fas ```
