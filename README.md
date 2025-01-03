@@ -10,3 +10,7 @@ This notebook has been developed on Google Colab on 08 Dec 2024.
 ``` !apt-get install -y tesseract-ocr ```
 
 ``` !apt-get install -y tesseract-ocr-fas ```
+
+``` !pip install pytesseract pdf2image Pillow ```
+
+``` !apt-get install -y poppler-utils ```
